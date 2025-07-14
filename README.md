@@ -31,3 +31,7 @@ cd House-Rental-frontend
 npm install
 npm run dev
 ```
+3. Link to Backend Laravel
+```bash
+https://github.com/hotsothearith/House_Rental.git
+```
